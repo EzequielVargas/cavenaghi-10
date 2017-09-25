@@ -1,0 +1,11 @@
+\\VBOXSVR\PagoAgil2C2017\src\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe.config
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe.config
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.pdb
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.Properties.Resources.resources
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.csproj.GenerateResource.Cache
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.exe
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.pdb
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.AltaCliente.resources
+C:\Users\Ezequiel\Documents\Facultad\GDD\TP Pago Facil Frba 1.0 - 2C 2017\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.Login.resources
